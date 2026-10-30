@@ -33,7 +33,7 @@ You found a website whose look and feel is *exactly* what you want. Now you want
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/<your-username>/design-dna.git
+git clone https://github.com/naitikgaur/design-dna.git
 cd design-dna
 npm install            # also downloads Chromium via Playwright
 
